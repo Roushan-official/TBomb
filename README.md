@@ -5,19 +5,19 @@ This Script is Only For Educational Purposes or To Prank.
  Do not Use This To Harm Others.
  I Am Not Responsible For The Misuse Of The Script.
 
-The Script Requires A working Net Connection To Work..
+The Script Requires A Net Connection To Work..
 No Balance will be deducted for using this script to send SMS...
 
 While Using The Infinite Bomb Use 2-3 Seconds Delay And 10 to 20 Threads For Maximum Performance...
 <br>Don't Put Spaces In Between Number Ex- 9999999999
 
- Make Sure To Update it for New Versions...
+ Make Sure To Update it for New Versions by typing apt-get update...
 
  That's All !!!
 
 Make Sure You Are Using python3
 
-To USE the Script Type The Following Commands in Termux...
+To Use the Script Type The Following Commands in Termux...
 
 apt install git
 
